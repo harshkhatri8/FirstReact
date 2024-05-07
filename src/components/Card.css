@@ -1,0 +1,11 @@
+.main-card{
+    display: flex;
+    flex-direction: column;
+
+    width: 30%;
+    margin-bottom: 50px;
+}
+.image{
+   
+    height: 250px;
+}
